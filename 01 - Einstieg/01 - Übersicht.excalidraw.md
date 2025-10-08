@@ -78,7 +78,7 @@ Aufgabe: Informiert Euch kurz über Begriffe, die ihr nicht
             bestimmt dabei die jeweiligen Kategorien selbst! ^Y0O3Yxox
 
 ## Embedded Files
-4dfb2eb0697c981e782a18be681be97ad739ce38: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902135242_944.png]]
+4dfb2eb0697c981e782a18be681be97ad739ce38: [[01 - Einstieg/Anhänge/Pasted Image 20250902135242_944.png]]
 
 %%
 ## Drawing
