@@ -29,15 +29,15 @@ Oder andere
 Quelle... ^NnWMTmM9
 
 ## Embedded Files
-e0fda1ce7ec8e0365eb21a12df30ed6c8feef43a: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902224550_213.png]]
+e0fda1ce7ec8e0365eb21a12df30ed6c8feef43a: [[01 - Einstieg/Anhänge/Pasted Image 20250902224550_213.png]]
 
-0fd2e89b4cdb9f28e661d4eacab1cde568153f14: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902224951_339.png]]
+0fd2e89b4cdb9f28e661d4eacab1cde568153f14: [[01 - Einstieg/Anhänge/Pasted Image 20250902224951_339.png]]
 
-c3795d11019bb5f1bd35508fb130f744c30b5b32: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902225141_529.png]]
+c3795d11019bb5f1bd35508fb130f744c30b5b32: [[01 - Einstieg/Anhänge/Pasted Image 20250902225141_529.png]]
 
-90d086b4d2954dfeed63a018a32f0519f6ad7124: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902225303_534.png]]
+90d086b4d2954dfeed63a018a32f0519f6ad7124: [[01 - Einstieg/Anhänge/Pasted Image 20250902225303_534.png]]
 
-fbb375035889f3bdeedf7cbf14f449298c18373b: [[10 - IT24b-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20250902225355_030.png]]
+fbb375035889f3bdeedf7cbf14f449298c18373b: [[01 - Einstieg/Anhänge/Pasted Image 20250902225355_030.png]]
 
 7cede593e1901b7cfff186f980d9d72ea366a9ee: https://firebasestorage.googleapis.com/v0/b/image-bin-1f5d9.firebasestorage.app/o/pasterly%2Fimage_1756815475068_sf0gsj.png?alt=media&amp;token=fd7493a2-9a6b-4885-8e51-579b1e70fb8b
 
