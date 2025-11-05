@@ -6,6 +6,8 @@
 - [[01a - Lösungen Übersicht.excalidraw]]
 - [[02 - Verantwortung, Zuständigkeit und Sicherheitsbereiche.excalidraw]]
 - [[03 - Gesetze und Richtlinien zur Informationssicherheit.excalidraw]]
+- [[03a - Aufgabe Gesetze und Richtlinien zur Informationssicherheit Philipp Kleidt.excalidraw]]
+- [[03a - Aufgabe Gesetze und Richtlinien zur Informationssicherheit_Jan Bonness.excalidraw]]
 - [[04 - IT-Grundschutz (BSI).excalidraw]]
 - [[04a - 10 Grunschutzschichten]]
 - **Anhänge**
@@ -18,5 +20,7 @@
 	- [[Pasted Image 20251005154906_878.png]]
 	- [[Pasted Image 20251005155032_731.png]]
 	- [[Pasted Image 20251005170909_045.png]]
+	- [[Pasted Image 20251105094446_543.png]]
+	- [[Pasted Image 20251105094447_057.png]]
 
 %% End Waypoint %%
