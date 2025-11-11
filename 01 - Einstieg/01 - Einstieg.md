@@ -10,6 +10,10 @@
 - [[03a - Aufgabe Gesetze und Richtlinien zur Informationssicherheit_Jan Bonness.excalidraw]]
 - [[04 - IT-Grundschutz (BSI).excalidraw]]
 - [[04a - 10 Grunschutzschichten]]
+- [[05 - Bedrohungslagen und Angriffsvektoren.excalidraw]]
+- [[05a - Aufgaben]]
+- [[06 - Social Engineering und Identitätsdiebstahl.excalidraw]]
+- [[06a - Aufgaben]]
 - **Anhänge**
 	- [[Pasted Image 20250902135242_944.png]]
 	- [[Pasted Image 20250902224550_213.png]]
@@ -22,5 +26,7 @@
 	- [[Pasted Image 20251005170909_045.png]]
 	- [[Pasted Image 20251105094446_543.png]]
 	- [[Pasted Image 20251105094447_057.png]]
+- [[Noten 05a - Musterlösungen]]
+- [[Noten 06a - Musterlösungen]]
 
 %% End Waypoint %%
