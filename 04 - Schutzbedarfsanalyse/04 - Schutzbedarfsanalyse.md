@@ -4,8 +4,7 @@
 %% Begin Waypoint %%
 - **Anhänge**
 	- [[Pasted Image 20260120215342_372.png]]
-	- [[Recplast_Onlinekurs2018.pdf]]
-- [[01 - Von der Sicherheitsleitlinie zur Schutzbedarfsanalyse.excalidraw]]
+- [[01 - Von der Sicherheitsleitlinie zur Schutzbedarfsanalyse.excalidraw 1]]
 - [[02 - Erstellung einer eigenen Schutzbedarfsanalyse.excalidraw]]
 - [[02a - Vorlage Schutzbedarfsfeststellung]]
 

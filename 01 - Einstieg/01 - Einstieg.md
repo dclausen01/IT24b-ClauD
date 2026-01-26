@@ -28,10 +28,10 @@
 - [[04b - Lernzettel 4]]
 - [[05 - Bedrohungslagen und Angriffsvektoren.excalidraw]]
 - [[05a - Aufgaben]]
+- [[05a - Musterlösungen]]
 - [[06 - Social Engineering und Identitätsdiebstahl.excalidraw]]
 - [[06a - Aufgaben]]
-- [[Noten 05a - Musterlösungen]]
-- [[Noten 06a - Musterlösungen]]
+- [[06a - Musterlösungen]]
 - [[Pasted image 20251120110415.png]]
 - [[Pasted image 20251201144657.png]]
 
