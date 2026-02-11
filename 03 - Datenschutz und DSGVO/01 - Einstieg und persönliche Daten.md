@@ -42,4 +42,4 @@ Datenschutz ist nicht nur ein Thema für Behörden und Unternehmen. Im Gegenteil
 
 
 **Aufgabe**
-Diskutieren Sie anhand der Vorschläge oben, ob Datenschutz im Alltag anwendbar ist. Begründen Sie Ihre Meinung.
+Diskutieren Sie anhand der Vorschläge oben, inwiefern Datenschutz im Alltag anwendbar ist. Begründen Sie Ihre Meinung.
