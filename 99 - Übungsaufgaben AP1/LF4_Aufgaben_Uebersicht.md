@@ -20,6 +20,7 @@
 #### 4a) Schutzziele zuordnen (6 Punkte)
 
 Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit sollen Sicherheitsmaßnahmen zugeordnet werden (pro Zeile ein Kreuz + Begründung):
+
 | Sicherheitsmaßnahme                                 | V   | I   | VF  | Begründung                                               |
 | --------------------------------------------------- | --- | --- | --- | -------------------------------------------------------- |
 | Sichere Passwörter wählen                         | X   |     |     | Zugriff Fremder auf Benutzerdaten wird besser geschützt |
@@ -43,6 +44,7 @@ Schutzbedarfskategorien:
 - Hoch: Schadensauswirkungen können beträchtlich sein
 - Sehr hoch: Schadensauswirkungen können existenziell bedrohliches Ausmaß erreichen
 Begründung für gewählten Schutzbedarf ergänzen:
+
 | IT-Anwendung                                                           | Schutzziel      | Kategorie | Begründung                                                           |
 | ---------------------------------------------------------------------- | --------------- | --------- | --------------------------------------------------------------------- |
 | Prüfziffernverfahren bei Übermittlung der Krankenversicherungsnummer | Integrität      | hoch      | z.B.: Verfälschte Daten können zu fehlerhaften Abrechnungen führen |
@@ -71,6 +73,7 @@ Gebührenabrechnungssoftware sichert freitags auf separater Partition derselben 
 
 **Kontext:** AllRound AG - Netzwerkzugriff für Notebook ins Firmen-WLAN.
 WPA-PSK vs. EAP/WPA-Enterprise-RADIUS: Vor-/Nachteil und Empfehlung für Unternehmensgröße.
+
 | Verfahren                 | Vorteil            | Nachteil                                    | Unternehmensgröße |
 | ------------------------- | ------------------ | ------------------------------------------- | ------------------- |
 | WPA-PSK                   | Einfach umzusetzen | Unsicher, da PW schnell bekannt werden kann | Kleine Unternehmen  |
