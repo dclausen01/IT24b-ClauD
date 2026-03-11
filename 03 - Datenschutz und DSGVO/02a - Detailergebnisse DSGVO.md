@@ -1,7 +1,7 @@
 ---
 title: 02a - Detailergebnisse DSGVO
 url: https://hackmd.io/q_hIunQFTaymWWZdn3Fg_Q
-lastSync: 2026-02-11T08:14:23.038Z
+lastSync: 2026-03-11T07:12:02.249Z
 ---
 # Auftragsverarbeitung
 

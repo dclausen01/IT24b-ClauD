@@ -1,0 +1,13 @@
+---
+url: https://hackmd.io/QRnUzVXISZC28wM5H92xqw
+title: 01a - Ergebnisse Von der Sicherheitsrichtlinie zur Schutzbedarfsanalyse
+lastSync: 2026-03-11T08:01:57.574Z
+---
+# Entwicklung einer Sicherheitsrichtlinie (Tim, Mo, Jan, Devin, Kai, Jonas)
+- ...
+# Sicherheitskonzept (Ramy, Oliver, Sandro, Pierre)
+- ...
+# Strukturanalye (Philipp, Jonah, Lars)
+- ...
+# Schutzbedarfsfeststellung (Karolin, Semy, Lennart, Lukas)
+- ...

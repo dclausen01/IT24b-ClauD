@@ -10,6 +10,7 @@
 - **[[05 - Verschlüsselung und ähnliche Verfahren]]**
 - **[[99 - Übungsaufgaben AP1]]**
 - **Anhänge**
+- [[Bibox-LF4 1.pdf]]
 - [[Noten Zeugnis.univer]]
 - [[README]]
 - [[ShareMyPlugin]]
