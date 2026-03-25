@@ -37,7 +37,7 @@ XiBl6iCb: [[02a - Vorlage Schutzbedarfsfeststellung]]
 TbRhDQmt: [[02b - Bewertungskriterien]]
 
 ## Embedded Files
-45c1415b0f028f32b90f933351c5a20c65cb756e: [[09 - IT24a-LF4-ClauD/04 - Schutzbedarfsanalyse/Anhänge/Pasted Image 20260211091826_585.png]]
+45c1415b0f028f32b90f933351c5a20c65cb756e: [[04 - Schutzbedarfsanalyse/Anhänge/Pasted Image 20260211091826_585.png]]
 
 %%
 ## Drawing
