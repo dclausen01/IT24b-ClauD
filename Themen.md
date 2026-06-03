@@ -1,0 +1,10 @@
+- Pentesting im Kontext von social engineering
+	- 8
+- Deep dive LLM - Wie funktioniert eigentlich (ganz grundsätzlich) ein large language model?
+	- 5
+- Blockchain - die Technologie hinter Bitcoin & Co.
+	- 1
+- Container - was soll das eigentlich? Am Beispiel von Docker
+	- 6
+- Verschlüsselung: symmetrische und asymmetrische Verfahren - am Beispiel von AES und RSA
+	- 
